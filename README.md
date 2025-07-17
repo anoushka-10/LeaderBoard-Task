@@ -47,7 +47,7 @@ To run this project on your local machine, follow these steps.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/anoushka-10/LeaderBoard-Task.git](https://github.com/anoushka-10/LeaderBoard-Task.git)
 cd your-repo-name
 ```
 
